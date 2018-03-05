@@ -17,7 +17,7 @@ The following **stretch** user stories are implemented:
 
 - [ ] User sees an alert when there's a networking error (+1pt)
 - [X] User can search for a movie (+3pt)
-- [ ] While poster is being fetched, user see's a placeholder image (+1pt)
+- [X] While poster is being fetched, user see's a placeholder image (+1pt)
 - [ ] User sees image transition for images coming from network, not when it is loaded from cache (+1pt)
 - [X] Customize the selection effect of the cell (+1pt)
 - [ ] For the large poster, load the low resolution image first and then switch to the high resolution image when complete (+2pt)
